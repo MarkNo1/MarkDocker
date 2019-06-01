@@ -1,0 +1,3 @@
+#install
+sudo apt-get install build-essential dkms
+sudo apt-get install freeglut3 freeglut3-dev libxi-dev libxmu-dev

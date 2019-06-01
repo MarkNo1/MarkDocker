@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Start NXserver
+sudo service nxserver start
+# Start ssh
+sudo service ssh start
+# Source ROS
+# source /ros_entrypoint.sh
+# Switch to Zsh
+zsh
+# reconfigure Openbox
+# openbox --reconfigure   
